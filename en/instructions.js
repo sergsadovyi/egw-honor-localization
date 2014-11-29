@@ -1,34 +1,34 @@
 H.data.l10n.instructions = [
 	{
 		elm: 'title',
-		text: 'Правила'
+		text: 'Instructions'
 	},
 	{
 		elm: 'p',
-		text: 'Тебе нужно набрать 200 очков за 5 минут, чтоб исследовать Питкэрн и получить зачет.'
+		text: 'You will need to earn 200 points in 5 minutes in order to launch the Pitcairn and earn your Pathfinder honor.'
 	},
 	{
 		elm: 'p',
-		text: 'За ответы на вопросы на светлом фоне ты получишь очки. А за вопросы на темном фоне – монеты.'
+		text: 'The light colored questions earn you points. The dark colored questions give you tokens.'
 	},
 	{
 		elm: 'p',
-		text: 'Нажми "Использовать монеты" для получения бонусов. Ты можешь выбрать дополнительное время, дополнительный вопрос (за который ты можешь получить или потерять очки) или подсказку.'
+		text: 'Press on the Redeem tokens to use your tokens. You can trade your tokens for more time, a risk question (in which you can win or lose points), or you can buy an answer card.'
 	},
 	{
 		elm: 'p',
-		text: 'Возле указательного столба ты получаешь случайную карту, которая добавляет или забирает очки, монеты или время.'
+		text: 'As you pass the sign posts you will get a wild card which may give or take points, tokens or time.'
 	},
 	{
 		elm: 'p',
-		text: 'Подсказки дают тебе столько ответов, сколько нужно.'
+		text: 'Answer Cards are useful as they will give you many of the answers you will need.'
 	},
 	{
 		elm: 'p',
-		text: 'Игра начинается и заканчивается в порту, где корабль Питкэрн был постоен. Ты можешь осмотреть весь остров изменив масштаб карты.'
+		text: 'The game begins and ends at the dock where the Pitcairn boat is being built. You can see how far you have to go by zooming in and out.'
 	},
 	{
 		elm: 'p',
-		text: 'Удачного исследования Питкэрна!'
+		text: 'Have fun launching the Pitcairn!'
 	}
 ];
