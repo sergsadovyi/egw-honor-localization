@@ -59,7 +59,7 @@ H.data.l10n.terms = {
 	},
 	end: {
 		play_again: 'ИГРАТЬ ЕЩЕ',
-		pathfinder_honor: 'HONOR',
+		pathfinder_honor: 'СПЕЦИАЛИЗАЦИЯ',
 		game_over: 'Конец игры',
 		out_of_time: 'Время закончилось. Подсказка: дополнительное время можно покупать за монеты.',
 		congratulations: 'Поздравляем',
