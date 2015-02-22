@@ -712,6 +712,7 @@ H.data.questions = {
                 '99'
             ]
         },
+        // Duplicate
         {
             q: 'Which of the White\'s sons went down the Mississippi River bringing education and the gospel to the Blacks? ',
             a: [
@@ -721,6 +722,7 @@ H.data.questions = {
                 'John'
             ]
         },
+        // Duplicate ^
         {
             q: 'What was the largest Seventh-day Adventist church in Battle Creek, Michigan?',
             a: [
